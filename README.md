@@ -4,6 +4,8 @@
 ![Azure](https://img.shields.io/badge/Azure_AI_Search-0078D4?logo=microsoftazure&logoColor=white)
 ![OpenAI](https://img.shields.io/badge/Azure_OpenAI-412991?logo=openai&logoColor=white)
 ![Streamlit](https://img.shields.io/badge/Streamlit-FF4B4B?logo=streamlit&logoColor=white)
+![DART](https://img.shields.io/badge/DART_OpenAPI-0B6E4F?logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCI+PHBhdGggZmlsbD0id2hpdGUiIGQ9Ik0xMiAyQzYuNDggMiAyIDYuNDggMiAxMnM0LjQ4IDEwIDEwIDEwIDEwLTQuNDggMTAtMTBTMTcuNTIgMiAxMiAyek0xMSAxN0g5VjdoMnYxMHptNCAwaC0yVjdoMnYxMHoiLz48L3N2Zz4=&logoColor=white)
+![License](https://img.shields.io/badge/License-MIT-green)
 
 Azure 기반 한국 상장사 사업보고서 질의응답 시스템. DART Open API로 수집한 2023년 사업보고서를 청킹 후 Azure AI Search에 인덱싱하고, 하이브리드 검색 + Cross-encoder Reranking + GPT-4o-mini로 답변을 생성한다.
 
